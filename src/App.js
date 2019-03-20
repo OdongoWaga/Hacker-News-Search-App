@@ -44,7 +44,7 @@ export default function App() {
 				alt="React Logo"
 				className="float-right h-12"
 			/>
-			<h1 className="text-grey-darkest font-thin">Hooks News</h1>
+			<h1 className="text-grey-darkest font-thin">Search Hacker News</h1>
 			<form onSubmit={handleSearch} className="mb-2">
 				<input
 					type="text"
